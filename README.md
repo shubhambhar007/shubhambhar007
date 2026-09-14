@@ -1,26 +1,86 @@
-![Header](./github-header-image.png)
-<h1 align="center">Hi 👋, I'm Shubham Bhardwaj</h1>
-<h3 align="center">A passionate AI engineer from India</h3>
+<div align="center">
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhambhar007&label=Profile%20views&color=0e75b6&style=flat" alt="shubhambhar007" /> </p>
+![Shubham Bhardwaj — Software Engineer & AI Builder](https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,11,20&text=Shubham%20Bhardwaj&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Open-Source%20Contributor&descSize=17&descAlignY=58&animation=fadeIn)
 
-- 🌱 I’m currently learning **React**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+reliable+AI+systems+at+Microsoft;Turning+LLM+ideas+into+production+software;Shipping+across+Python%2C+TypeScript+and+the+cloud)](https://git.io/typing-svg)
 
-- 💬 Ask me about **Python,Bash,Kubernetes,Docker,Terraform**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-bhardwaj-ba02b616b/)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhsap1234@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=shubhambhar007&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS)](https://github.com/shubhambhar007)
 
-- 📫 How to reach me **shubhsap1234@gmail.com**
+</div>
 
-- ⚡ Fun fact **I play almost all racket sports**
+## Hey, I'm Shubham 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shubham-bhardwaj-ba02b616b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-bhardwaj" height="30" width="40" /></a>
-</p>
+I'm a **Software Engineer II at Microsoft**, working where software engineering meets **AI and machine learning**. I enjoy the part after the demo: designing dependable systems, finding uncomfortable edge cases, and turning promising models into software people can actually trust.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+```python
+shubham = {
+    "focus": ["Generative AI", "LLM systems", "developer tooling"],
+    "craft": ["backend engineering", "cloud infrastructure", "open source"],
+    "currently_building": ["ChessGrind", "Shader Forge", "OSS fixes"],
+    "off_screen": ["tennis", "squash", "badminton"],
+}
+```
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhambhar007&show_icons=true&locale=en&layout=compact" alt="shubhambhar007" /></p>
+- 🧠 I care about **production-grade GenAI**, evaluation, reliability, and useful developer experiences.
+- 🛠️ I like working from the model layer through APIs, infrastructure, CI/CD, and observability.
+- 🌱 I'm contributing upstream and learning in public—especially around **LLM tooling and systems code**.
+- 🎓 BITS Pilani alumnus; forever competitive on both a keyboard and a racket court.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhambhar007&" alt="shubhambhar007" /></p>
+## What I'm building
+
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| ♟️ **[ChessGrind](https://github.com/shubhambhar007/ChessGrind)** | A focused chess-puzzle training experience with gameplay insights and a polished interactive board. | Next.js · React · TypeScript · chess.js |
+| 🎨 **[Shader Forge](https://github.com/shubhambhar007/shader-forge)** | An interactive WebGL shader studio for experimenting with visual effects directly in the browser. | WebGL · Next.js · React · TypeScript |
+| 🤖 **[LLM Experiments](https://github.com/shubhambhar007/llm_experiments)** | A growing lab for exploring language models and practical generative-AI workflows. | Python · LLMs · ML |
+| 🧩 **[System Design](https://github.com/shubhambhar007/HLD-Interview)** | Notes and implementations for reasoning about scalable systems and engineering interviews. | Architecture · HLD · Distributed Systems |
+
+## Open-source work
+
+I contribute fixes where correctness lives in the details. Most recently, I improved **Soup's MCP errors** so rejected export formats and GPU choices report the original value and the live allowlist—with regression coverage for bounds, control characters, and client/server round trips.
+
+[![Soup PR #954](https://img.shields.io/badge/Soup-PR_%23954-8957E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MakazhanAlpamys/Soup/pull/954)
+[![Explore repositories](https://img.shields.io/badge/Explore-All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhambhar007?tab=repositories)
+
+## Toolbox
+
+<div align="center">
+
+[![Core stack](https://skillicons.dev/icons?i=python,ts,js,react,nextjs,fastapi,django&theme=dark)](https://skillicons.dev)
+
+[![Cloud and platform](https://skillicons.dev/icons?i=azure,aws,gcp,docker,kubernetes,terraform,linux,bash&theme=dark)](https://skillicons.dev)
+
+[![Data and delivery](https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,githubactions,grafana,jenkins&theme=dark)](https://skillicons.dev)
+
+</div>
+
+## GitHub pulse
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubhambhar007&theme=github_dark" alt="Shubham's GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubhambhar007&theme=github_dark" alt="Shubham's repositories by language" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhambhar007&theme=github_dark" alt="Shubham's contribution graph" />
+
+<img src="https://streak-stats.demolab.com?user=shubhambhar007&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Shubham's GitHub streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Build things. Break assumptions. Ship better systems.
+
+If you're working on **AI infrastructure, developer tooling, or an interesting open-source problem**, let's talk.
+
+[LinkedIn](https://www.linkedin.com/in/shubham-bhardwaj-ba02b616b/) · [Email](mailto:shubhsap1234@gmail.com) · [Repositories](https://github.com/shubhambhar007?tab=repositories)
+
+<sub>From Hyderabad, India 🇮🇳</sub>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20)
+
+</div>
