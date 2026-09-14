@@ -2,9 +2,11 @@
 
 ![Shubham Bhardwaj — animated AI and data systems banner](./assets/hero-animated.svg)
 
-[![Bloomberg](https://img.shields.io/badge/Bloomberg-Senior_Engineer-F5A623?style=for-the-badge&labelColor=111827)](https://www.bloomberg.com/company/engineering/)
-[![Microsoft](https://img.shields.io/badge/Microsoft-Alumni-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/)
-[![AI Systems](https://img.shields.io/badge/Focus-AI_Systems-06B6D4?style=for-the-badge&labelColor=111827)](https://github.com/shubhambhar007?tab=repositories)
+[![Bloomberg](https://img.shields.io/badge/Bloomberg-Current-F59E0B?style=for-the-badge&labelColor=111827)](https://www.bloomberg.com/company/engineering/)
+[![Microsoft](https://img.shields.io/badge/Microsoft-Previously-64748B?style=for-the-badge&labelColor=111827)](https://www.microsoft.com/)
+[![Oracle](https://img.shields.io/badge/Oracle-Previously-64748B?style=for-the-badge&labelColor=111827)](https://www.oracle.com/)
+[![HSBC](https://img.shields.io/badge/HSBC-Previously-64748B?style=for-the-badge&labelColor=111827)](https://www.hsbc.com/)
+[![Nutanix](https://img.shields.io/badge/Nutanix-Previously-64748B?style=for-the-badge&labelColor=111827)](https://www.nutanix.com/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-bhardwaj-ba02b616b/)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubbhardwaj2406@gmail.com)
@@ -18,16 +20,7 @@ I'm a **Senior Software Engineer at Bloomberg** and former **Microsoft, Oracle, 
 
 My favorite problems live between a promising model and a production-grade system—retrieval quality, data freshness, latency, observability, safety, and the developer experience around all of it.
 
-```python
-shubham = {
-    "now": "Senior Software Engineer @ Bloomberg",
-    "before": "Microsoft",
-    "focus": ["Graph RAG", "Agentic AI", "knowledge engineering"],
-    "craft": ["distributed data", "backend systems", "AI platforms"],
-    "currently_building": ["ChessGrind", "Shader Forge", "OSS fixes"],
-    "off_screen": ["tennis", "squash", "badminton"],
-}
-```
+![Animated engineering focus: AI systems, platform craft, distributed data, and production principles](./assets/focus-animated.svg)
 
 ## Engineering at scale
 
