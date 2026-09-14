@@ -1,11 +1,6 @@
 <div align="center">
 
-![Data systems meeting artificial intelligence](./assets-profile-hero.png)
-
-<h1>Shubham Bhardwaj</h1>
-<h3>Senior Software Engineer @ Bloomberg · ex-Microsoft · AI Systems Builder</h3>
-
-<p><em>I build software where intelligent systems, dependable infrastructure, and hard engineering problems meet.</em></p>
+![Shubham Bhardwaj — animated AI and data systems banner](./assets/hero-animated.svg)
 
 [![Bloomberg](https://img.shields.io/badge/Bloomberg-Senior_Engineer-F5A623?style=for-the-badge&labelColor=111827)](https://www.bloomberg.com/company/engineering/)
 [![Microsoft](https://img.shields.io/badge/Microsoft-Alumni-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/)

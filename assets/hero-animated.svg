@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Shubham Bhardwaj - Senior Software Engineer and AI Systems Builder</title>
+  <desc id="desc">Animated market data, distributed systems, and artificial intelligence network</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#030712"/>
+      <stop offset="0.48" stop-color="#0b1225"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="flow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f59e0b" stop-opacity="0"/>
+      <stop offset="0.32" stop-color="#f59e0b"/>
+      <stop offset="0.68" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+      <animate attributeName="x1" values="-1;1" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;2" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="core">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.16" stop-color="#67e8f9"/>
+      <stop offset="0.55" stop-color="#2563eb" stop-opacity=".65"/>
+      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#38bdf8" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+    <clipPath id="frame"><rect width="1200" height="420" rx="26"/></clipPath>
+    <path id="streamA" d="M-80 304 C130 126 282 376 470 248 S795 112 1280 270"/>
+    <path id="streamB" d="M-70 348 C180 220 300 414 532 292 S846 214 1260 112"/>
+    <path id="streamC" d="M-100 232 C118 370 300 132 522 248 S840 390 1290 194"/>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="420" fill="url(#bg)"/>
+    <rect width="1200" height="420" fill="url(#grid)" opacity=".85">
+      <animateTransform attributeName="transform" type="translate" values="0 0;36 36" dur="8s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- atmospheric energy -->
+    <ellipse cx="80" cy="205" rx="260" ry="220" fill="#f59e0b" opacity=".09" filter="url(#soft)">
+      <animate attributeName="opacity" values=".05;.14;.05" dur="5s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="1120" cy="200" rx="290" ry="240" fill="#2563eb" opacity=".13" filter="url(#soft)">
+      <animate attributeName="opacity" values=".14;.06;.14" dur="6s" repeatCount="indefinite"/>
+    </ellipse>
+
+    <!-- animated data streams -->
+    <g fill="none" stroke-linecap="round">
+      <use href="#streamA" stroke="#0ea5e9" stroke-opacity=".14" stroke-width="18" filter="url(#soft)"/>
+      <use href="#streamA" stroke="url(#flow)" stroke-width="2.4" stroke-dasharray="12 10">
+        <animate attributeName="stroke-dashoffset" values="440;0" dur="9s" repeatCount="indefinite"/>
+      </use>
+      <use href="#streamB" stroke="#f59e0b" stroke-opacity=".14" stroke-width="12" filter="url(#soft)"/>
+      <use href="#streamB" stroke="url(#flow)" stroke-width="1.8" stroke-dasharray="4 12">
+        <animate attributeName="stroke-dashoffset" values="0;-360" dur="7s" repeatCount="indefinite"/>
+      </use>
+      <use href="#streamC" stroke="url(#flow)" stroke-width="1.2" stroke-dasharray="2 16">
+        <animate attributeName="stroke-dashoffset" values="300;0" dur="5s" repeatCount="indefinite"/>
+      </use>
+    </g>
+
+    <!-- moving packets -->
+    <g filter="url(#glow)">
+      <circle r="4" fill="#fbbf24"><animateMotion dur="4.7s" repeatCount="indefinite"><mpath href="#streamA"/></animateMotion></circle>
+      <circle r="3" fill="#22d3ee"><animateMotion dur="6.1s" begin="-2s" repeatCount="indefinite"><mpath href="#streamA"/></animateMotion></circle>
+      <circle r="3.5" fill="#a78bfa"><animateMotion dur="5.4s" begin="-1s" repeatCount="indefinite"><mpath href="#streamB"/></animateMotion></circle>
+      <circle r="2.8" fill="#67e8f9"><animateMotion dur="4.2s" begin="-3s" repeatCount="indefinite"><mpath href="#streamC"/></animateMotion></circle>
+    </g>
+
+    <!-- left market signal -->
+    <g transform="translate(55 76)" opacity=".9">
+      <path d="M0 92 L28 64 L54 74 L82 31 L108 48 L136 7 L164 23 L192 -18" fill="none" stroke="#f59e0b" stroke-width="2" filter="url(#glow)" stroke-dasharray="270" stroke-dashoffset="270">
+        <animate attributeName="stroke-dashoffset" values="270;0;0" keyTimes="0;.7;1" dur="4s" repeatCount="indefinite"/>
+      </path>
+      <g stroke="#fbbf24" stroke-width="2">
+        <path d="M18 110V70M11 88H25"/><path d="M52 92V46M45 58H59"/><path d="M88 71V25M81 52H95"/><path d="M124 50V4M117 17H131"/>
+      </g>
+      <text x="0" y="140" fill="#fbbf24" font-family="monospace" font-size="11" letter-spacing="3">SIGNAL / VELOCITY / SCALE</text>
+    </g>
+
+    <!-- right knowledge graph -->
+    <g transform="translate(1015 176)" stroke="#60a5fa" stroke-opacity=".55">
+      <path d="M0 0L-88-62M0 0L-104 46M0 0L72-70M0 0L94 38M-88-62L-142 4M-104 46L-142 4M72-70L118-18M94 38L118-18"/>
+      <g fill="#22d3ee" stroke="none" filter="url(#glow)">
+        <circle r="9"><animate attributeName="r" values="7;12;7" dur="2.4s" repeatCount="indefinite"/></circle>
+        <circle cx="-88" cy="-62" r="6"><animate attributeName="opacity" values=".35;1;.35" dur="2s" repeatCount="indefinite"/></circle>
+        <circle cx="-104" cy="46" r="5"><animate attributeName="opacity" values="1;.3;1" dur="2.8s" repeatCount="indefinite"/></circle>
+        <circle cx="72" cy="-70" r="6"><animate attributeName="opacity" values=".3;1;.3" dur="3.2s" repeatCount="indefinite"/></circle>
+        <circle cx="94" cy="38" r="5"><animate attributeName="opacity" values="1;.35;1" dur="2.3s" repeatCount="indefinite"/></circle>
+        <circle cx="-142" cy="4" r="4"/><circle cx="118" cy="-18" r="4"/>
+      </g>
+    </g>
+
+    <!-- AI core -->
+    <g transform="translate(600 106)">
+      <circle r="68" fill="url(#core)" opacity=".72"><animate attributeName="r" values="62;72;62" dur="4s" repeatCount="indefinite"/></circle>
+      <circle r="40" fill="none" stroke="#67e8f9" stroke-opacity=".65" stroke-width="1.2" stroke-dasharray="5 9">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="52" fill="none" stroke="#a78bfa" stroke-opacity=".45" stroke-width="1" stroke-dasharray="2 13">
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="18s" repeatCount="indefinite"/>
+      </circle>
+      <g fill="#fff" filter="url(#glow)">
+        <circle r="4"/><circle cx="22" cy="-12" r="2.5"/><circle cx="-19" cy="18" r="2.5"/><circle cx="-21" cy="-17" r="2"/>
+      </g>
+    </g>
+
+    <!-- identity -->
+    <g font-family="Inter,Segoe UI,Arial,sans-serif" text-anchor="middle">
+      <text x="600" y="202" fill="#f8fafc" font-size="42" font-weight="750" letter-spacing="1">SHUBHAM BHARDWAJ</text>
+      <rect x="342" y="220" width="516" height="1" fill="url(#flow)"/>
+      <text x="600" y="252" fill="#cbd5e1" font-size="16" font-weight="500" letter-spacing="3">SENIOR SOFTWARE ENGINEER @ BLOOMBERG</text>
+      <text x="600" y="286" fill="#67e8f9" font-family="monospace" font-size="14" letter-spacing="2" opacity="0">GRAPH RAG  ·  KNOWLEDGE ENGINEERING
+        <animate attributeName="opacity" values="0;1;1;0;0;0" keyTimes="0;.08;.28;.34;.92;1" dur="9s" repeatCount="indefinite"/>
+      </text>
+      <text x="600" y="286" fill="#fbbf24" font-family="monospace" font-size="14" letter-spacing="2" opacity="0">AGENTIC AI  ·  MCP  ·  TOOL CALLING
+        <animate attributeName="opacity" values="0;0;0;1;1;0" keyTimes="0;.28;.34;.42;.62;.68" dur="9s" repeatCount="indefinite"/>
+      </text>
+      <text x="600" y="286" fill="#a78bfa" font-family="monospace" font-size="14" letter-spacing="2" opacity="0">DISTRIBUTED DATA  ·  SYSTEMS AT SCALE
+        <animate attributeName="opacity" values="0;0;0;0;1;1;0" keyTimes="0;.58;.64;.68;.74;.94;1" dur="9s" repeatCount="indefinite"/>
+      </text>
+    </g>
+
+    <!-- scanning light -->
+    <rect x="0" y="0" width="1200" height="2" fill="#67e8f9" opacity=".22" filter="url(#glow)">
+      <animate attributeName="y" values="0;420" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;.28;0" dur="5s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="10" y="10" width="1180" height="400" rx="20" fill="none" stroke="#38bdf8" stroke-opacity=".2"/>
+  </g>
+</svg>
