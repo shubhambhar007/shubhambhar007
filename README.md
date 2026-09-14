@@ -1,8 +1,15 @@
 <div align="center">
 
-![Shubham Bhardwaj — Software Engineer & AI Builder](https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,11,20&text=Shubham%20Bhardwaj&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Open-Source%20Contributor&descSize=17&descAlignY=58&animation=fadeIn)
+![Data systems meeting artificial intelligence](./assets-profile-hero.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+reliable+AI+systems+at+Microsoft;Turning+LLM+ideas+into+production+software;Shipping+across+Python%2C+TypeScript+and+the+cloud)](https://git.io/typing-svg)
+<h1>Shubham Bhardwaj</h1>
+<h3>Senior Software Engineer @ Bloomberg · ex-Microsoft · AI Systems Builder</h3>
+
+<p><em>I build software where intelligent systems, dependable infrastructure, and hard engineering problems meet.</em></p>
+
+[![Bloomberg](https://img.shields.io/badge/Bloomberg-Senior_Engineer-F5A623?style=for-the-badge&labelColor=111827)](https://www.bloomberg.com/company/engineering/)
+[![Microsoft](https://img.shields.io/badge/Microsoft-Alumni-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/)
+[![AI Systems](https://img.shields.io/badge/Focus-AI_Systems-06B6D4?style=for-the-badge&labelColor=111827)](https://github.com/shubhambhar007?tab=repositories)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-bhardwaj-ba02b616b/)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhsap1234@gmail.com)
@@ -12,10 +19,12 @@
 
 ## Hey, I'm Shubham 👋
 
-I'm a **Software Engineer II at Microsoft**, working where software engineering meets **AI and machine learning**. I enjoy the part after the demo: designing dependable systems, finding uncomfortable edge cases, and turning promising models into software people can actually trust.
+I'm a **Senior Software Engineer at Bloomberg** and a former Microsoft engineer, working where software engineering meets **AI and machine learning**. I enjoy the part after the demo: designing dependable systems, finding uncomfortable edge cases, and turning promising models into software people can actually trust.
 
 ```python
 shubham = {
+    "now": "Senior Software Engineer @ Bloomberg",
+    "before": "Microsoft",
     "focus": ["Generative AI", "LLM systems", "developer tooling"],
     "craft": ["backend engineering", "cloud infrastructure", "open source"],
     "currently_building": ["ChessGrind", "Shader Forge", "OSS fixes"],
@@ -79,8 +88,6 @@ If you're working on **AI infrastructure, developer tooling, or an interesting o
 
 [LinkedIn](https://www.linkedin.com/in/shubham-bhardwaj-ba02b616b/) · [Email](mailto:shubhsap1234@gmail.com) · [Repositories](https://github.com/shubhambhar007?tab=repositories)
 
-<sub>From Hyderabad, India 🇮🇳</sub>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20)
+<sub>Engineering with curiosity, precision, and an unreasonable dislike of flaky systems.</sub>
 
 </div>
